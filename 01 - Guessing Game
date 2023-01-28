@@ -1,0 +1,14 @@
+# 01 - Guessing Game
+
+Use random number generation to program a little game:
+
+The computer thinks of a random number between 1 and 100. It then prompts the user to guess what the number is. If the user is wrong, the computer prints whether the secret number is greater or smaller than the guessed one. The user may then guess again. If the user is finally right, the computer prints the user’s score (number of tries it took).
+
+Example Output:
+
+<pre>
+Ok, I have thought of a number. First guess: <b>10</b> 
+My number is smaller than that. Next guess: <b>5</b> 
+My number is larger than that. Next guess: <b>7</b> 
+Correct! It took you 3 guesses.
+</pre>
